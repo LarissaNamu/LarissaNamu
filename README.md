@@ -1,6 +1,8 @@
 ## Welcome to [Larissa's][website] GitHub Page!
 
-Passionate software engineer, constant learner, and cat enthusiast ❤️
+Passionate fullstack software engineer, constant learner, and cat enthusiast ❤️
+
+My techstack: Python, Java, C++, C#, React, Spring Boot, SQL, Tailwind, Flask
 
 ---
 
@@ -14,9 +16,9 @@ Passionate software engineer, constant learner, and cat enthusiast ❤️
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/7a/b6/fc/7ab6fc6550326bdd81bd0c968c149344.jpg" width="250"/>
-  <img src="https://i.pinimg.com/736x/e4/b2/0f/e4b20fb2426a1741c7502278f8e01f6a.jpg" width="250"/>
-  <img src="https://i.pinimg.com/736x/1a/d4/f2/1ad4f21ee5716a4054dbae7bd9301610.jpg" width="250"/>
+  <img src="https://i.pinimg.com/736x/7a/b6/fc/7ab6fc6550326bdd81bd0c968c149344.jpg" width="200"/>
+  <img src="https://i.pinimg.com/736x/e4/b2/0f/e4b20fb2426a1741c7502278f8e01f6a.jpg" width="200"/>
+  <img src="https://i.pinimg.com/736x/1a/d4/f2/1ad4f21ee5716a4054dbae7bd9301610.jpg" width="200"/>
 </p>
 
 
