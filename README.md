@@ -2,11 +2,11 @@
 
 Passionate fullstack software engineer, constant learner, and cat enthusiast ❤️
 
-My techstack: Python, Java, C++, C#, React, Spring Boot, SQL, Tailwind, Flask
+My techstack: Python, Java, C++, C#, React, Spring Boot, SQL, Tailwind, Flask 💻
 
 ---
 
-### What I'm Listening to
+### What I'm Listening to 🎧
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=sovptg6ym5mws6xjwpd4uiq80&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=sovptg6ym5mws6xjwpd4uiq80&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark" />
