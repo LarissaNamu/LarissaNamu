@@ -1,7 +1,7 @@
-### Welcome to [Larissa's][website] GitHub Page!
-- Passionate software engineer
-- Constant learner
-- Cat enthusiast
+## Welcome to [Larissa's][website] GitHub Page!
+
+Passionate software engineer, constant learner, and cat enthusiast ❤️
+
 ---
 
 ### What I'm Listening to
