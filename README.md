@@ -5,7 +5,11 @@
 ---
 
 ### What I'm Listening to
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=sovptg6ym5mws6xjwpd4uiq80&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=sovptg6ym5mws6xjwpd4uiq80&redirect=true)
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=sovptg6ym5mws6xjwpd4uiq80&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=sovptg6ym5mws6xjwpd4uiq80&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark" />
+  </a>
+</p>
 
 ---
 
